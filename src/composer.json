@@ -1,0 +1,15 @@
+{
+    "name": "lara/php_docker",
+    "autoload": {
+        "psr-4": {
+            "Lara\\PhpDocker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "slavko1989",
+            "email": "slavkoslave1989@gmail.com"
+        }
+    ],
+    "require": {}
+}
