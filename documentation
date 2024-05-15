@@ -1,14 +1,1 @@
-docker-compose up -d    This command will build your Docker images and start your containers in detached mode.
 
-To start your Docker containers: rundocker up -d
-To stop your Docker containers: rundocker down
-To rebuild your Docker containers: rundocker build
-
-composer init, kreora composer.jons, onda composer install
-
-Verify that data persists in the database
-In the terminal, run docker compose rm to remove your containers and then run docker compose up to run your application again.
-
-
- docker compose rm
- docker compose up --build
